@@ -1,0 +1,103 @@
+{
+  "Calais": {
+    "Nancy": 534,
+    "Paris": 297,
+    "Caen": 450
+  },
+  "Caen": {
+    "Calais": 450,
+    "Paris": 241,
+    "Rennes": 176
+  },
+  "Brest": {
+    "Rennes": 244
+  },
+  "Rennes": {
+    "Caen": 176,
+    "Paris": 348,
+    "Nantes": 107,
+    "Brest": 244
+  },
+  "Paris": {
+    "Calais": 297,
+    "Nancy": 372,
+    "Dijon": 313,
+    "Limoges": 396,
+    "Rennes": 348
+  },
+  "Nancy": {
+    "Strasbourg": 145,
+    "Dijon": 201,
+    "Paris": 372,
+    "Calais": 534
+  },
+  "Strasbourg": {
+    "Dijon": 335,
+    "Nancy": 145
+  },
+  "Nantes": {
+    "Rennes": 107,
+    "Limoges": 329,
+    "Bordeaux": 329
+  },
+  "Dijon": {
+    "Nancy": 201,
+    "Strasbourg": 335,
+    "Lyon": 192,
+    "Paris": 313
+  },
+  "Limoges": {
+    "Paris": 396,
+    "Lyon": 389,
+    "Toulouse": 313,
+    "Bordeaux": 220,
+    "Nantes": 329
+  },
+  "Lyon": {
+    "Dijon": 192,
+    "Grenoble": 104,
+    "Avignon": 216,
+    "Limoges": 389
+  },
+  "Grenoble": {
+    "Avignon": 227,
+    "Lyon": 104
+  },
+  "Bordeaux": {
+    "Nantes": 329,
+    "Limoges": 220,
+    "Toulouse": 259
+  },
+  "Toulouse": {
+    "Limoges": 313,
+    "Montpellier": 240,
+    "Bordeaux": 259
+  },
+  "Montpellier": {
+    "Avignon": 91,
+    "Toulouse": 240
+  },
+  "Avignon": {
+    "Lyon": 216,
+    "Grenoble": 227,
+    "Marseille": 99,
+    "Montpellier": 91
+  },
+  "Marseille": {
+    "Nice": 158,
+    "Avignon": 99
+  },
+  "Nice": {
+    "Marseille": 158,
+    "Moulins": 750
+  },
+  "Moulins": {
+    "Nice": 750
+  },
+  "Pau": {
+    "Bordeaux": 300
+  },
+  "Lille": {
+    "Paris": 300
+  }
+}
